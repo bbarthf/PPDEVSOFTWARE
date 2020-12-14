@@ -52,7 +52,7 @@ Tutorial para trabalhar com CRUD com java SWING: https://www.youtube.com/watch?v
 
 # DOCUMENTAÇÃO:
 - Diagrama de casos de USO:
-
+  [DiagramaCasosDeUso.pdf](https://github.com/bbarthf/PPDEVSOFTWARE/files/5691527/DiagramaCasosDeUso.pdf)
 - Diagrama de Classes:
 
 
