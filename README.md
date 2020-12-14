@@ -39,23 +39,13 @@ Tutorial para trabalhar com CRUD com java SWING: https://www.youtube.com/watch?v
 - No menu de cadastro de adiantamento o usuário poderá clicar no botão buscar para consultar algum ID de adiantamento e assim realizar as operações do seu desejo no menu de cadastro de adiantamento <br>
 
 # Movimentos futuros
-- Criar cadastramento com validação no banco de dados firebase<br>
-- Criar perfil "Quero Adotar" e "Quero doar". <br>
-  Quero Doar: Perfil onde será cadastrado os cards de pets e o dono poderá incluir ou retirar os pets quando desejados, os pets que apareceram no feed serão os peds       cadastrados pelo os seus donos<br>
-  Quero Adotar: Perfil para quem está procurando um pet para adotar, o usuário irá realizar o cadastramento demonstrando o interesse pelo tipo de pet que seja e navegará no feed para o encontrar. <br>
-- Criar link entre dono e usuário da adoção, onde quando o usuário desejar entrar em contato com o dono do pet o sistema abrirá um diálogo diretamente com o número de whatsapp cadastrado no sistema de "Quero doar".<br>
-- Dsenvolver login por biometria<br>
-- Melhorar diálogo de decisão<br>
-- Criar geolocalização para melhor demonstrar os pets diponíveis na região do usuário que deseja adotar. <br>
-- Melhorar layout das telas<br>
-- CRUD completo no firebase para inserir, excluir, alterar e ler do banco de dadoas firebase. <br>
+- Criar cadastramento completo (MODEL, VIEW E CONTROLE) de acordo com o diagrama de classes da aba "Documentação"<br>
+- Criação de vinculado das tabelas do banco de dados MySql com os eventos do microsoft Flow e gerar fluxo de aprovação por e-mail. <br>
+- Vinculo API do PIX para vincular todos os movimentos de conta corrente, obter buscar e relatórios.<br>
 
 # DOCUMENTAÇÃO:
-- Diagrama de casos de USO:
-  [DiagramaCasosDeUso.pdf](https://github.com/bbarthf/PPDEVSOFTWARE/files/5691527/DiagramaCasosDeUso.pdf)
-- Diagrama de Classes:
-
-
+- Diagrama de casos de USO:[DiagramaCasosDeUso.pdf](https://github.com/bbarthf/PPDEVSOFTWARE/files/5691527/DiagramaCasosDeUso.pdf) <br>
+- Diagrama de Classes: [DiagramaDeClasseV3.pdf](https://github.com/bbarthf/PPDEVSOFTWARE/files/5691531/DiagramaDeClasseV3.pdf)<br>
 
 # AUTOR
 Brenda Barth Ferreira <br>
